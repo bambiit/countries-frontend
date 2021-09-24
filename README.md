@@ -8,6 +8,15 @@ The index page lists all the relevant countries with a filter. The content is fe
  
 Another page is /country/:name, which lists all the details of the specified country.
 
+## Getting started
+
+To start application
+
+```
+npm install
+npm start
+```
+
 ## Note
 
 The page of restcountries.eu is broken at the moment this project is developed. Their resources of flag images are
